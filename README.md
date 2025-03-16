@@ -24,8 +24,8 @@ Esta é uma aplicação de processamento de pagamentos que permite iniciar pagam
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/tonycasper/arq-hex-node.git
+   cd arq-hex-node
    ```
 2. Instale as dependências:
    ```sh
