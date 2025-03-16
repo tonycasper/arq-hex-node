@@ -39,9 +39,14 @@ Esta é uma aplicação de processamento de pagamentos que permite iniciar pagam
    ```
 ## Uso
 
-1. Inicie o servidor:
+0. Inicie o servidor de mock:
    ```sh
-   npm start
+   npm start:mocks
+   ```
+t
+1. Inicie o servidor mock server:
+   ```sh
+   npm start 
    ```
 
 2. Acesse a aplicação em http://localhost:3000.
