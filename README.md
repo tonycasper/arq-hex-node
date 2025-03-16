@@ -43,7 +43,7 @@ Esta é uma aplicação de processamento de pagamentos que permite iniciar pagam
    ```sh
    npm start:mocks
    ```
-t
+   
 1. Inicie o servidor mock server:
    ```sh
    npm start 
